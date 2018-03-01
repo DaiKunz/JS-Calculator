@@ -1,0 +1,12 @@
+html {
+    text-align: center;
+    background-color: lightskyblue;
+}
+body {
+    background-color: lightskyblue;
+}
+button {
+    border: 3px solid grey !important;
+    cursor: pointer;
+    outline: none;
+}
